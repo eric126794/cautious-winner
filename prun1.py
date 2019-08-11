@@ -4,7 +4,7 @@ import numpy as np
 
 def func_a():
     a = np.random.randn(500, 500)
-    return a**2
+    return a**3
 
 
 def func_b():
